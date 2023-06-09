@@ -24,7 +24,7 @@
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $password = $_POST['value'];
-        $hash = password_hash($password, PASSWORD_BCRYPT);
+        $hash = password_hash($password, PASSWORD_BCRYPT, ['cost' => 15]);
         echo "Your hash:<br>" . $hash;
     }
     ?>
