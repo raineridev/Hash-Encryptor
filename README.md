@@ -17,7 +17,7 @@ hash creation :
 
 ## Feedback
 
-If you have any feedback, please let us know via Discord: Raineri#0001.
+If you have any feedback, please let us know via Discord: raineridev.
 
 
 ## Autores
