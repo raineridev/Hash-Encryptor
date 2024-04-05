@@ -12,7 +12,7 @@ $2y$15$sClw6mU.8YCBYsDK7OXktOvfX3NUlXI5KfBBA0rKfA9RkhmVeOnSy
 ## Screenshots
 hash creation :
 
-![Result]([https://media.discordapp.net/attachments/1083425433653104723/1116828255031414835/image.png?width=1180&height=372](https://media.discordapp.net/attachments/1080586501387190344/1225799902609539164/image.png?ex=6622721f&is=660ffd1f&hm=596fab6fe240bf9bd09f59ded091b781a1b80ee9ee3435af9b14b35a1400c8c3&=&format=webp&quality=lossless&width=1440&height=603))
+![Result]([https://media.discordapp.net/attachments/1080586501387190344/1225799902609539164/image.png?ex=6622721f&is=660ffd1f&hm=596fab6fe240bf9bd09f59ded091b781a1b80ee9ee3435af9b14b35a1400c8c3&=&format=webp&quality=lossless&width=1440&height=603])
 
 
 ## Feedback
