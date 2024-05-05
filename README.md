@@ -4,8 +4,8 @@ This is a string to hash converter in BCRYPT, made in just one file with CSS, HT
 ## Examples
 
 ```
-Input > test
-$2y$15$sClw6mU.8YCBYsDK7OXktOvfX3NUlXI5KfBBA0rKfA9RkhmVeOnSy
+Input -> test
+Output -> $2y$15$sClw6mU.8YCBYsDK7OXktOvfX3NUlXI5KfBBA0rKfA9RkhmVeOnSy
 ```
 
 
